@@ -1,7 +1,6 @@
 # 🎬 Movie Data Management System (DMS)
 
 ![Java](https://img.shields.io/badge/Java-8+-blue)  
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A **Java-based desktop application** for managing a personal movie database. Users can add, edit, delete, and view movies with a graphical interface. Each movie also includes a **custom “scariness” score** based on rating, votes, runtime, and watched status.
 
