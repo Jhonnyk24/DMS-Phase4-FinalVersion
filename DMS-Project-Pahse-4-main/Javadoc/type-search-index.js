@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"DBConnectionDialog"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Movie"},{"p":"<Unnamed>","l":"MovieDatabaseManager"},{"p":"<Unnamed>","l":"MovieDialogGUI"},{"p":"<Unnamed>","l":"MovieGUI"}];updateSearchResults();
